@@ -1,0 +1,3 @@
+Debugging is the process of finding and fixing errors in software that prevents it from running correctly.Debugging is the process of identifying and resolving errors or bugs in a software program or system. When a program doesn't function as expected or produces incorrect results, developers use debugging techniques to locate and fix the underlying issues.
+
+The goal of debugging is to identify the root cause of the problem and correct it. This typically involves examining the code, observing its execution, and analyzing the program's state at various points to understand why it is behaving incorrectly.
